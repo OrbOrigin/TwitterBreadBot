@@ -1,2 +1,0 @@
-# TwitterBreadBot
-Created with CodeSandbox
